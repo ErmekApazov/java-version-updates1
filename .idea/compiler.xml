@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-version-updates1" />
+        <module name="m2-enum" />
         <module name="m1-generics" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-version-updates1" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

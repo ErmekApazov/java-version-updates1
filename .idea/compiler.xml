@@ -11,11 +11,9 @@
         <module name="m3-lambda" />
         <module name="m4-double_colon_operators" />
         <module name="m1-generics" />
-        <module name="m5_comparative_interface" />
+        <module name="m6-stream" />
+        <module name="m5-comparative_interface" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="m5-comparative_interface" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>

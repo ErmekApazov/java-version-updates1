@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="Main class updated">
-      <change afterPath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/ComparingMethod/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/ComparingMethod/AppleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/ComparingMethod/Color.java" afterDir="false" />
+    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="ComparingMethod Package created;">
+      <change afterPath="$PROJECT_DIR$/m6-stream/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m5_comparative_interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/m5_comparative_interface/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/MyComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/ComparingMethod/MyComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/ComparingMethod/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m5_comparative_interface/src/main/java/com/cydeo/ComparingMethod/AppleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +40,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.com.cydeo.ComparingMethod.AppleTest">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.ComparingMethod.AppleTest" />
-      <module name="m5_comparative_interface" />
+      <module name="m5-comparative_interface" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.ComparingMethod.*" />
@@ -84,7 +80,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.Main" />
-      <module name="m5_comparative_interface" />
+      <module name="m5-comparative_interface" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.ComparingMethod.*" />
@@ -142,7 +138,7 @@
       <workItem from="1660839076425" duration="235000" />
       <workItem from="1660839331298" duration="2314000" />
       <workItem from="1660841687847" duration="101000" />
-      <workItem from="1660841812323" duration="3083000" />
+      <workItem from="1660841812323" duration="5056000" />
     </task>
     <task id="LOCAL-00001" summary="Main class updated">
       <created>1660839890063</created>
@@ -165,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660842533086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ComparingMethod Package created;">
+      <created>1660848775644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660848775644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Main class updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main class updated" />
+    <MESSAGE value="ComparingMethod Package created;" />
+    <option name="LAST_COMMIT_MESSAGE" value="ComparingMethod Package created;" />
   </component>
 </project>

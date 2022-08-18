@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -7,6 +8,7 @@
         <option value="$PROJECT_DIR$/m2-enum/pom.xml" />
         <option value="$PROJECT_DIR$/m3-lambda/pom.xml" />
         <option value="$PROJECT_DIR$/m4-double_colon_operators/pom.xml" />
+        <option value="$PROJECT_DIR$/m5_comparative_interface/pom.xml" />
       </list>
     </option>
   </component>

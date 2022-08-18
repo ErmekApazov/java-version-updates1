@@ -4,27 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m1-generics/m1-generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m2-enum/m2-enum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/m3-lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/m4-double_colon_operators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-version-updates1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-version-updates1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="Main class updated">
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/target/classes/com/cydeo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/target/classes/com/cydeo/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +51,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.cydeo.OrangeTask.OrangeTest">
+  <component name="RunManager" selected="Application.CarTest">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.AppleTask.AppleTest" />
       <module name="m3-lambda" />
@@ -68,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Main" />
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.CarTest" />
       <module name="m4-double_colon_operators" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.com.cydeo.OrangeTask.OrangeTest" />
         <item itemvalue="Application.MemberTest" />
         <item itemvalue="Application.OrangeTest" />
         <item itemvalue="Application.AppleTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,8 +136,16 @@
       <option name="presentableId" value="Default" />
       <updated>1660839072691</updated>
       <workItem from="1660839076425" duration="235000" />
-      <workItem from="1660839331298" duration="440000" />
+      <workItem from="1660839331298" duration="1918000" />
     </task>
+    <task id="LOCAL-00001" summary="Main class updated">
+      <created>1660839890063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660839890063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main class updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main class updated" />
   </component>
 </project>

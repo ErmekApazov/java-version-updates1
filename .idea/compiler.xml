@@ -14,7 +14,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java-version-updates1" target="11" />
+      <module name="m1-generics" target="11" />
+      <module name="m2-enum" target="11" />
+      <module name="m3-lambda" target="11" />
+      <module name="m4-double_colon_operators" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

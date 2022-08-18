@@ -9,7 +9,7 @@ public class FunctionalInterface {
 
     public static void main(String[] args) {
 
-        ApplePredicate ap = new ApplePredicate() { //  // AppleHeavy
+        ApplePredicate ap = new ApplePredicate() { // AppleHeavy
             @Override
             public boolean test(Apple apple) {
                 return apple.getWeight()>200;
@@ -18,7 +18,6 @@ public class FunctionalInterface {
 
 
         System.out.println("--------------------PREDICATE-------------------");
-
         Predicate<Integer> lesserThan = i -> i<18;
         System.out.println(lesserThan.test(20));
 

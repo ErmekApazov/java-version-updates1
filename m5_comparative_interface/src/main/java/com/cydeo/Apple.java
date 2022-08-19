@@ -1,4 +1,4 @@
-package com.cydeo.ComparingMethod;
+package com.cydeo;
 
 import lombok.*;
 

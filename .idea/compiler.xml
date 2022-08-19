@@ -12,7 +12,7 @@
         <module name="m4-double_colon_operators" />
         <module name="m1-generics" />
         <module name="m6-stream" />
-        <module name="m5-comparative_interface" />
+        <module name="m5_comparative_interface" />
       </profile>
     </annotationProcessing>
   </component>

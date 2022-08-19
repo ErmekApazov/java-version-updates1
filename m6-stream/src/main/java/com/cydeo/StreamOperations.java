@@ -18,7 +18,7 @@ public class StreamOperations {
                 .filter(i -> i%2 ==0) // intermediate operation
                 .forEach(System.out:: println); // terminal operation
 
-        //if you need to continue stream flow
+        //if you need to continue a new stream flow
         // list.stream() and so on.
 
         System.out.println("----------Distinct---------------");
@@ -32,6 +32,20 @@ public class StreamOperations {
         list.stream()
                 .filter(i ->i%2 ==0)
                 .limit(1)
+                .forEach(System.out::println);
+
+        System.out.println("-----------Skip------------------");
+
+        list.stream()
+                .filter(i ->i%2 ==0)
+                .skip(1)
+                .forEach(System.out::println);
+
+        System.out.println("-----------Map------------------");
+
+        list.stream()
+                .map(number -> number *2) //.map(i ->i*3)
+                .filter(i ->i%3 ==0)
                 .forEach(System.out::println);
 
     }

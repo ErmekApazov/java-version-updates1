@@ -1,4 +1,4 @@
-package com.cydeo.ComparingMethod;
+package com.cydeo;
 
 public enum Color {
     RED, GREEN

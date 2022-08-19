@@ -9,9 +9,9 @@ import java.util.function.Predicate;
 public class Main {
     public static void main(String[] args) {
 
-        // Predicate<Integer> pred = (p)->p%2 ==0 ? true : false;
+        Predicate<Integer> pred = (p)->p%2 ==0 ? true : false;
 
-        // Reference to static method:
+// Reference to static method:
 
         Calculate s1 = (x,y) -> System.out.println(x+y);
 
@@ -21,13 +21,13 @@ public class Main {
 
         s3.calculate(10,20);
 
-        // Reference to instance method:
+// Reference to instance method:
 
         Calculator obj = new Calculator();
-
         Calculate s4 = obj :: findMultiply; // object call method directly
 
         Calculate s5 = new Calculator() :: findMultiply;
+        s5.calculate(5,4);
 
         BiFunction<String, Integer, String> func = (str, i) -> str.substring(i);
         BiFunction<String, Integer, String> func2 = String :: substring;
@@ -41,10 +41,6 @@ public class Main {
 
         Consumer<Integer> display = i -> System.out.println(i);
         Consumer<Integer> display2 = System.out::println;
-
-
-
-
 
 
 

@@ -1,4 +1,4 @@
-package com.cydeo.ComparingMethod;
+package com.cydeo;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="Employee package created">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/DishCalories/DishTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/DishCalories/DishTask.java" afterDir="false" />
-    </list>
+    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="Reducing and FindingMatching Classes created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +139,7 @@
       <workItem from="1660966920942" duration="1425000" />
       <workItem from="1661006853682" duration="2004000" />
       <workItem from="1661053838611" duration="476000" />
-      <workItem from="1661093705402" duration="5762000" />
+      <workItem from="1661093705402" duration="6073000" />
     </task>
     <task id="LOCAL-00001" summary="Main class updated">
       <created>1660839890063</created>
@@ -208,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660971102598</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Reducing and FindingMatching Classes created">
+      <created>1661101653833</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661101653833</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +236,7 @@
     <MESSAGE value="Stream Module: StreamOperations updated" />
     <MESSAGE value="Task packages created" />
     <MESSAGE value="Employee package created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employee package created" />
+    <MESSAGE value="Reducing and FindingMatching Classes created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reducing and FindingMatching Classes created" />
   </component>
 </project>

@@ -14,6 +14,7 @@ public class Main {
 
         System.out.println("How to get all constant?");
 
+//values();
         Currency[] currencies = Currency.values();
 
         for (Currency eachCurrency : currencies) {

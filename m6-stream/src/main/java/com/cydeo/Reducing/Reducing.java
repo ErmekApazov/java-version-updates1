@@ -63,6 +63,10 @@ public class Reducing {
         System.out.println("Min = " + min.get());
 
 
+//COUNT
+        System.out.println("-----------COUNT-------------");
+        long dishCount = DishData.getAll().stream().count();
+        System.out.println(dishCount);
 
 
 

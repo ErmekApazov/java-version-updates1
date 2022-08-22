@@ -32,6 +32,8 @@ public class OrangeTest {
 
     //Convert to ready functional interface
 
+
+
     private static void prettyPrintApple(List<Orange> inventory, OrangeFormatter formatter){
         for(Orange orange : inventory){
             String output = formatter.accept(orange);

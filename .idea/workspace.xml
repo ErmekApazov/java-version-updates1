@@ -4,10 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="Reducing and FindingMatching Classes created">
-      <change afterPath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/Collectors/CollectorsDemo.java" afterDir="false" />
+    <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="Updates">
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/FunctionalInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/Sorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/Reducing/Reducing.java" beforeDir="false" afterPath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/Reducing/Reducing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTask/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTask/AppleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/OrangeFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/OrangeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleTask/AppleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleTask/AppleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/OrangeFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/OrangeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/DishCalories/DishTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/DishCalories/DishTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,24 +54,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/apazo/IdeaProjects/java-version-updates1/m3-lambda/src/main/java/com/cydeo/SortingTask",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.CollectorsDemo">
-    <configuration name="CollectorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Collectors.CollectorsDemo" />
-      <module name="m6-stream" />
+}]]></component>
+  <component name="RunManager" selected="Application.ArraySorting">
+    <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.AppleTask.AppleTest" />
+      <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Collectors.*" />
+          <option name="PATTERN" value="com.cydeo.AppleTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DishTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.DishCalories.DishTask" />
-      <module name="m6-stream" />
+    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.SortingTask.ArraySorting" />
+      <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.DishCalories.*" />
+          <option name="PATTERN" value="com.cydeo.SortingTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Employee.EmployeeTest" />
+    <configuration name="CharOfWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.WordTask.CharOfWord" />
       <module name="m6-stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Employee.*" />
+          <option name="PATTERN" value="com.cydeo.WordTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindingMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.FindingMatching.FindingMatching" />
-      <module name="m6-stream" />
+    <configuration name="OrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.OrangeTest.OrangeTest" />
+      <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.FindingMatching.*" />
+          <option name="PATTERN" value="com.cydeo.OrangeTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reducing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Reducing.Reducing" />
-      <module name="m6-stream" />
+    <configuration name="com.cydeo.OrangeTask.OrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.OrangeTask.OrangeTest" />
+      <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.Reducing.*" />
+          <option name="PATTERN" value="com.cydeo.OrangeTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectorsDemo" />
-        <item itemvalue="Application.Reducing" />
-        <item itemvalue="Application.FindingMatching" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.DishTask" />
+        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.com.cydeo.OrangeTask.OrangeTest" />
+        <item itemvalue="Application.com.cydeo.OrangeTest.OrangeTest" />
+        <item itemvalue="Application.AppleTest" />
+        <item itemvalue="Application.CharOfWord" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +159,8 @@
       <workItem from="1660966920942" duration="1425000" />
       <workItem from="1661006853682" duration="2004000" />
       <workItem from="1661053838611" duration="476000" />
-      <workItem from="1661093705402" duration="9633000" />
+      <workItem from="1661093705402" duration="11085000" />
+      <workItem from="1661130568188" duration="8059000" />
     </task>
     <task id="LOCAL-00001" summary="Main class updated">
       <created>1660839890063</created>
@@ -222,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661101724405</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updates">
+      <created>1661109597157</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661109597157</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +272,7 @@
     <MESSAGE value="Task packages created" />
     <MESSAGE value="Employee package created" />
     <MESSAGE value="Reducing and FindingMatching Classes created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reducing and FindingMatching Classes created" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
 </project>

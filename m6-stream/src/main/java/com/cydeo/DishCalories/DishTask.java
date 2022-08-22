@@ -1,6 +1,5 @@
 package com.cydeo.DishCalories;
 
-
 import lombok.AllArgsConstructor;
 
 import java.util.ArrayList;
@@ -44,8 +43,6 @@ public class DishTask {
                 .forEach(System.out::println);
 
         System.out.println("--------3----------");
-
-
 
         //Print all dish name that are below 400 calories in the sorted
         DishData.getAll().stream()

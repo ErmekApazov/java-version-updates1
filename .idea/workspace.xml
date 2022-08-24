@@ -5,24 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb76f305-5bf5-4eef-b92e-2e725fe1aced" name="Changes" comment="Updates">
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/FunctionalInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/SortingTask/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7-optional-bigdecimal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7-optional-bigdecimal/src/main/java/com/cydeo/BigDecimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7-optional-bigdecimal/src/main/java/com/cydeo/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java10/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java11/PredicateNotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java11/StringMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java12/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java12/TeeingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java12/task/EventParticipation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java12/task/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java12/task/GuestTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java13/TextBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java14/SwitchCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java14/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java14/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java9/CompactStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java9/FactoryMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java9/ModuleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java9/PrivateMethodInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java9/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/com/cydeo/java9/TakeWhileDropWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8-new-version-updates/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTask/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTask/AppleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/OrangeFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleToString/OrangeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleTask/AppleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleTask/AppleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/OrangeFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/target/classes/com/cydeo/AppleToString/OrangeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/DishCalories/DishTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/m6-stream/src/main/java/com/cydeo/DishCalories/DishTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +44,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="module-info" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +60,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="useMavenConfig" value="true" />
+        <option name="usePluginRegistry" value="true" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -58,15 +72,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/apazo/IdeaProjects/java-version-updates1/m3-lambda/src/main/java/com/cydeo/SortingTask",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "C:/Users/apazo/IdeaProjects/java-version-updates1/m8-new-version-updates/src/main/java/com/cydeo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraySorting">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\apazo\IdeaProjects\java-version-updates1\m8-new-version-updates\src\main\java\com\cydeo" />
+      <recent name="C:\Users\apazo\IdeaProjects\java-version-updates1\m8-new-version-updates\src\main\java\com\cydeo\java9" />
+      <recent name="C:\Users\apazo\IdeaProjects\java-version-updates1\m3-lambda\src\main\java\com\cydeo\SortingTask" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cydeo.java10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SwitchCaseDemo">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.AppleTask.AppleTest" />
       <module name="m3-lambda" />
@@ -80,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.SortingTask.ArraySorting" />
-      <module name="m3-lambda" />
+    <configuration name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.OptionalDemo" />
+      <module name="m7-optional-bigdecimal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.SortingTask.*" />
+          <option name="PATTERN" value="com.cydeo.java11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharOfWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.WordTask.CharOfWord" />
-      <module name="m6-stream" />
+    <configuration name="SwitchCaseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.java14.SwitchCaseDemo" />
+      <module name="m8-new-version-updates" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.WordTask.*" />
+          <option name="PATTERN" value="com.cydeo.java14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.OrangeTest.OrangeTest" />
-      <module name="m3-lambda" />
+    <configuration name="TextBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.java13.TextBlockDemo" />
+      <module name="m8-new-version-updates" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.OrangeTest.*" />
+          <option name="PATTERN" value="com.cydeo.java13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.cydeo.OrangeTask.OrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.OrangeTask.OrangeTest" />
-      <module name="m3-lambda" />
+    <configuration name="com.cydeo.java12.TeeingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.java12.TeeingDemo" />
+      <module name="m8-new-version-updates" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.OrangeTask.*" />
+          <option name="PATTERN" value="com.cydeo.java12.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +160,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraySorting" />
-        <item itemvalue="Application.com.cydeo.OrangeTask.OrangeTest" />
-        <item itemvalue="Application.com.cydeo.OrangeTest.OrangeTest" />
+        <item itemvalue="Application.SwitchCaseDemo" />
+        <item itemvalue="Application.TextBlockDemo" />
+        <item itemvalue="Application.com.cydeo.java12.TeeingDemo" />
         <item itemvalue="Application.AppleTest" />
-        <item itemvalue="Application.CharOfWord" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +185,14 @@
       <workItem from="1661006853682" duration="2004000" />
       <workItem from="1661053838611" duration="476000" />
       <workItem from="1661093705402" duration="11085000" />
-      <workItem from="1661130568188" duration="8059000" />
+      <workItem from="1661130568188" duration="9849000" />
+      <workItem from="1661182168141" duration="1990000" />
+      <workItem from="1661186448649" duration="2207000" />
+      <workItem from="1661194409523" duration="723000" />
+      <workItem from="1661225996630" duration="2155000" />
+      <workItem from="1661264434338" duration="2377000" />
+      <workItem from="1661268883808" duration="5086000" />
+      <workItem from="1661282281930" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="Main class updated">
       <created>1660839890063</created>
@@ -246,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661109597157</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updates">
+      <created>1661143206968</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661143206968</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

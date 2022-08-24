@@ -18,6 +18,7 @@ public class AppleTest {
         inventory.forEach(apple -> System.out.println(apple));
 
         System.out.println("----------Heavy Apple----------");
+
         AppleHeavyPredicate abc = new AppleHeavyPredicate();
         List<Apple> heavyApple = filterApples(inventory, abc);
         System.out.println(heavyApple);
@@ -29,6 +30,7 @@ public class AppleTest {
         System.out.println("----------Green Apple----------");
         AppleGreenColorPredicate xyz = new AppleGreenColorPredicate();
         List<Apple> greenApple = filterApples(inventory, xyz);
+        System.out.println(greenApple);
 
         List<Apple> greenApple2 = filterApples(inventory, new AppleGreenColorPredicate());
             System.out.println(greenApple2);
@@ -46,7 +48,6 @@ public class AppleTest {
 
 
         System.out.println("------convert to ready functional interfaces--------");
-
 
 
     }

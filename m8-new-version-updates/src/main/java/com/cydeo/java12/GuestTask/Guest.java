@@ -1,4 +1,4 @@
-package com.cydeo.java12.task;
+package com.cydeo.java12.GuestTask;
 
 public class Guest {
 

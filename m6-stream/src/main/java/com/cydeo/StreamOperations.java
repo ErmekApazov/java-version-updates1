@@ -1,5 +1,6 @@
 package com.cydeo;
 
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
@@ -47,6 +48,7 @@ public class StreamOperations {
                 .map(number -> number *2) //.map(i ->i*3)
                 .filter(i ->i%3 ==0)
                 .forEach(System.out::println);
+
 
     }
 }
